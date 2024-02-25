@@ -30,7 +30,7 @@ We welcome contributions to this project! Please follow these guidelines:
 
 * Fork the repository and create a pull request for your changes.
 * Include clear and concise descriptions of your contributions.
-* Follow the coding style and conventions used in the existing codebase.
+* Follow the coding style and conventions used in the existing codebase.  
     
-
+  
 Enjoy playing AI Checkers!
